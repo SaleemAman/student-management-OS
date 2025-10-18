@@ -28,3 +28,11 @@ nav ul li a {
   text-decoration: none;
   font-weight: bold;
 }
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 50px;
+  font-size: 14px;
+}
